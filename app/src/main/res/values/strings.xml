@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Do You Know the Flag</string>
+    <string name="a1">Algeria</string>
+    <string name="a2">Nigeria</string>
+    <string name="a3">Benin</string>
+    <string name="a4">Portugal</string>
+    <string name="a5">Zambia</string>
+    <string name="a6">Sudan</string>
+    <string name="a7">Nepal</string>
+    <string name="a8">Norway</string>
+    <string name="a9">Iceland</string>
+    <string name="a10">Iran</string>
+    <string name="a11">Sweeden</string>
+    <string name="a12">Poland</string>
+    <string name="a13">Slovenia</string>
+    <string name="a14">Somalia</string>
+    <string name="a15">Slovakia</string>
+    <string name="a16">Swaziland</string>
+    <string name="a17">South Africa</string>
+    <string name="a18">Syria</string>
+    <string name="a19">Tunisa</string>
+    <string name="a20">Turkey</string>
+    <string name="a21">Togo</string>
+</resources>
