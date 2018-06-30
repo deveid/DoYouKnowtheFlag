@@ -10,3 +10,7 @@ Quiz App Name: DoYouKnowtheFlag?
 
 This quiz is designed to test a user's ability to recognize and identify flags of various countries.
 
+# Screenshot
+
+
+![image](https://user-images.githubusercontent.com/12122059/42125543-f0d96f00-7c2d-11e8-8c79-6553cf0c450b.png)
